@@ -42,7 +42,8 @@ INSTALLED_APPS = [
 
     'users',
     'issues',
-    'corsheaders'
+    'corsheaders',
+    'notifications',
 ]
 
 MIDDLEWARE = [

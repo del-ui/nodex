@@ -20,4 +20,7 @@ urlpatterns = [
     path('api/', include('issues.urls')),
     path('api/users/technicians/', technicians_list),
 
+    path('api/notifications/', include('notifications.urls')),
+
+
 ]
