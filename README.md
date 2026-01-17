@@ -157,6 +157,6 @@ npm run dev
 
 ## 👨‍💻 Author
 
-Built by **villa dev**
+Built by **del-labs**
 
-> NODEX — *track it, fix it, ship it.*
+
